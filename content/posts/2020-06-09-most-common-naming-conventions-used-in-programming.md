@@ -13,7 +13,6 @@ description: >-
   And there are a lot of them but this article consists of the 6 most used naming conventions in programming
 category: Coding Tips
 tags:
-  - MOST COMMON  NAMING CONVENTIONS  USED IN PROGRAMMING
   - Coding tips
   - How to write clean code
   - how to format code well
