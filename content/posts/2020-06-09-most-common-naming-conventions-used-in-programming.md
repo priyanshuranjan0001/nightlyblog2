@@ -22,11 +22,11 @@ tags:
   - python
   - javascript
 ---
+![](/media/download.png)
+
 ## **1. Camel Case**
 
 ### (abcABC)
-
-
 
 First letter of each word or abbreviation in the middle of the phrase begins with a capital letter, with no intervening spaces or punctuation.
 
@@ -48,8 +48,6 @@ Words within phrases or compound words are separated with an underscore.
 
 > **Examples:** user_account, file_name, etc.
 
-
-
 ## 4. Kebab Case
 
 ### (abc-abc)
@@ -57,8 +55,6 @@ Words within phrases or compound words are separated with an underscore.
 It is same as Snake Case, but using hyphens instead of underscores.
 
 > **Examples:** user-account, file-name, etc.
-
-
 
 ## 5. Screaming Case
 
@@ -71,8 +67,6 @@ This refers to names in uppercase.
 ## 6. Hungarian Notation
 
 ### It comes in two variants:
-
-
 
 1. **Systems Hungarian Notation:**
 
