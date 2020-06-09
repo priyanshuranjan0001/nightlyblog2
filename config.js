@@ -1,5 +1,5 @@
 module.exports = {
-  url: 'https://nightlyblog.netlify.app',
+  url: 'https://priyanshucodes.com/',
   pathPrefix: '/',
   title: 'Nightly Blog',
   keywords:
@@ -8,7 +8,7 @@ module.exports = {
   copyright: '© 2020 | Nightly Developer',
   disqusShortname: 'Nightl_ydev',
   postsPerPage: 20,
-  googleAnalyticsId: 'UA-6589522-7',
+  googleAnalyticsId: 'UA-168913193-1',
   menu: [
     {
       label: 'Blog',
