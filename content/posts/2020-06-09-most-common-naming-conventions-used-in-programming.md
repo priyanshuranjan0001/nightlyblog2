@@ -1,7 +1,7 @@
 ---
 template: post
 title: MOST COMMON  NAMING CONVENTIONS  USED IN PROGRAMMING
-slug: most_common_naming_conventions_used_in_programming
+slug: /posts/most_common_naming_conventions_used_in_programming
 draft: false
 priority: 0
 date: 2020-06-09T17:14:54.752Z
