@@ -1,7 +1,7 @@
 ---
 template: post
 title: "Top 5 Free And Awesome Beginners Friendly Rest APIs "
-slug: "/posts/Top-5-Free-And-Awesome-Beginners-Friendly-Rest-APIs "
+slug: /posts/Top-5-Free-And-Awesome-Beginners-Friendly-Rest-APIs
 draft: false
 priority: 0
 date: 2020-06-10T20:28:16.016Z
