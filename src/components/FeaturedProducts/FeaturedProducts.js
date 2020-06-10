@@ -7,7 +7,7 @@ const FeaturedProducts = () => {
     <Row className="" type="">
       {data.map((product, i) => (
         <Col
-         xs={24}
+          xs={24}
           sm={12}
           md={12}
           lg={12}
