@@ -3,7 +3,7 @@ module.exports = {
   pathPrefix: '/',
   title: 'Nightly Blog',
   keywords:
-    'account surfer, trello bookmark, trello, productivity, javascript, Marat Dospolov, choosy windows, browser selector',
+    'Learn programming, The best programming blog , productivity, javascript',
   subtitle: 'The Best Blog To Learn Programming',
   copyright: '© 2020 | Nightly Developer',
   disqusShortname: 'Nightl_dev',
@@ -13,9 +13,7 @@ module.exports = {
     {
       label: 'Read',
       path: '/'
-      
-      label: 'Watch',
-      path: 'https://www.youtube.com/channel/UCT4kzbM_F7o-AfOzPZoeUrA?view_as=subscriber'
+    
     }
   ],
   author: {
