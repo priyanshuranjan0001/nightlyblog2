@@ -17,8 +17,6 @@ tags:
   - rest api beginners
   - rest api beginner tutorial
 ---
-
-
 ![](/media/api.jpg)
 
 ## First of all
@@ -32,8 +30,6 @@ tags:
 There are thousands of REST APIs available for use. Many of these APIS are paid and limit the number of times you can call . The most secure APIS require setting up OAuth for users to login securely.
 
 **The APIs listed here are completely free and absolutely beginner friendly — no need to figure out how to handle OAuth or pay for their use.**
-
-
 
 ## SO ARE YOU READY??
 
@@ -49,7 +45,7 @@ NAŠA Get data on asteroid, galaxies, and more, from the supercool [NASA API.](h
 
 Still trying to figure out what your friend just said? Well, you can either google it or better build your own [Urban Dictionary](https://english.api.rakuten.net/community/api/urban-dictionary/details) App .
 
-![Weatherbit.io Logo](/media/download-3-.png)
+![Weatherbit.io  Logo](/media/download-3-.png)
 
 Build a cool Weather App using[ Weatherbit API](https://www.weatherbit.io/).
 
@@ -64,8 +60,6 @@ Get access to the greatest story ever told in over 1000 languages.
 You can search for recipes, images of specific cocktail, ingredients and more with this awesome free API.
 
 [Try cocktail DB](https://www.thecocktaildb.com/api.php)
-
-
 
 ### How to get started with these?
 
