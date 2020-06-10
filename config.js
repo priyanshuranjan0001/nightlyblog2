@@ -11,7 +11,7 @@ module.exports = {
   googleAnalyticsId: 'UA-168913193-1',
   menu: [
     {
-      label: 'Read',
+      label: 'Blog',
       path: '/'
     
     }
