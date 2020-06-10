@@ -41,6 +41,7 @@ const FeaturedProducts = () => {
     </Row>
   )
 }
+export default 
 
 
 
