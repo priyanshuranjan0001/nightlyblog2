@@ -6,13 +6,16 @@ module.exports = {
     'account surfer, trello bookmark, trello, productivity, javascript, Marat Dospolov, choosy windows, browser selector',
   subtitle: 'The Best Blog To Learn Programming',
   copyright: '© 2020 | Nightly Developer',
-  disqusShortname: 'Nightl_ydev',
+  disqusShortname: 'Nightl_dev',
   postsPerPage: 20,
   googleAnalyticsId: 'UA-168913193-1',
   menu: [
     {
-      label: 'Blog',
+      label: 'Read',
       path: '/'
+      
+      label: 'Watch',
+      path: 'https://www.youtube.com/channel/UCT4kzbM_F7o-AfOzPZoeUrA?view_as=subscriber'
     }
   ],
   author: {
@@ -22,7 +25,7 @@ module.exports = {
     contacts: {
       // don't remove fields, just make them empty string ''
       // https://github.com/gatsbyjs/gatsby/issues/2392
-      github: 'nightly_dev',
+      github: 'nightly-dev',
       twitter: 'nightly_dev',
       linkedin: '',
       telegram: '',
