@@ -25,7 +25,7 @@ tags:
 
 
 
-**A Representable State Transfer(REST) Application Programming Interface(API) provides a set of methods that a programmer can use via HTTP to send and receive data.**
+**A `Representable State Transfer (REST) Application Programming Interface (API)` provides a set of methods that a programmer can use via HTTP to send and receive data.**
 
 **Since these methods are over HTTP, any programming language can be used to employ REST APIs.**
 
