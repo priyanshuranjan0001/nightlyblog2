@@ -7,11 +7,11 @@ const FeaturedProducts = () => {
     <Row className="" type="">
       {data.map((product, i) => (
         <Col
-          xs={}
-          sm={}
-          md={}
-          lg={}
-          xl={}
+         xs={24}
+          sm={12}
+          md={12}
+          lg={12}
+          xl={12}
           key={product.name}
           className="bg-cover bg-center bg-no-repeat"
           style={{ backgroundImage: `url(/featured-products-bg/${i + 1}.jpg)` }}
