@@ -2,7 +2,7 @@ module.exports = {
   url: 'https://priyanshucodes.com/',
   pathPrefix: '/',
   title: 'Nightly Blog',
-  keywords:'programming languages,computer programming,The best programming blog ,productivity,javascript,coding and programming,computer coding,programming and development,coding,learn computer coding,computer programming for beginners,how to learn programming,web app developers,web developer website,web application developers,end developer,api developers,software development,development programmer,stack developers,it web development,app programmer,developer,developer website,developers site,web developer,data structures and algorithms for interviews,data structures and algorithms for beginners,learn data structures and algorithms for interviews,algorithm code,algorithm programming,algorithms for interviews,data structure programming questions,algorithms for coding interviews,data structures and algorithms,data structures and algorithms in python'
+  keywords:'computer programming,learn programming'
   subtitle: 'The Best Blog To Learn Programming',
   copyright: '© 2020 | Nightly Developer',
   disqusShortname: 'Nightl_dev',
