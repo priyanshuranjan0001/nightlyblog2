@@ -2,7 +2,8 @@ module.exports = {
   url: 'https://priyanshucodes.com/',
   pathPrefix: '/',
   title: 'Nightly Blog',
-  keywords:'computer programming, learn programming'
+  keywords:
+    'account surfer, trello bookmark, trello, productivity, javascript, Marat Dospolov, choosy windows, browser selector',
   subtitle: 'The Best Blog To Learn Programming',
   copyright: '© 2020 | Nightly Developer',
   disqusShortname: 'Nightl_dev',
