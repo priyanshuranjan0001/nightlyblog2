@@ -2,7 +2,7 @@ module.exports = {
   url: 'https://priyanshucodes.com/',
   pathPrefix: '/',
   title: 'Nightly Blog',
-  keywords:'computer programming,learn programming'
+  keywords:'computer programming, learn programming'
   subtitle: 'The Best Blog To Learn Programming',
   copyright: '© 2020 | Nightly Developer',
   disqusShortname: 'Nightl_dev',
